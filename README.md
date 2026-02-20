@@ -234,5 +234,3 @@ http://localhost:3000
 
 This project demonstrates a simple and scalable backend system for realtime energy monitoring using MQTT, InfluxDB, and RESTful services.
 
-```
-
